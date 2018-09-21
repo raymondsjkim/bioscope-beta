@@ -15,7 +15,6 @@
 		71A3CAE02151DDDD00F09815 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71A3CADE2151DDDD00F09815 /* LaunchScreen.storyboard */; };
 		71A3CAEB2151DDDD00F09815 /* bioscope_betaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A3CAEA2151DDDD00F09815 /* bioscope_betaTests.swift */; };
 		71A3CAF62151DDDD00F09815 /* bioscope_betaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A3CAF52151DDDD00F09815 /* bioscope_betaUITests.swift */; };
-		DD24463F2154BF7B00D0E0A6 /* CustomPhotoAlbum.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD24463E2154BF7B00D0E0A6 /* CustomPhotoAlbum.swift */; };
 		DD2446412154C35100D0E0A6 /* MyAwesomeAlbum.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2446402154C35100D0E0A6 /* MyAwesomeAlbum.swift */; };
 		DDB3D70921537E7F00E95C43 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB3D70821537E7F00E95C43 /* CameraViewController.swift */; };
 		DDB3D70B21537EA100E95C43 /* PreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB3D70A21537EA100E95C43 /* PreviewViewController.swift */; };
@@ -53,7 +52,6 @@
 		71A3CAF12151DDDD00F09815 /* bioscope-betaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "bioscope-betaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		71A3CAF52151DDDD00F09815 /* bioscope_betaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bioscope_betaUITests.swift; sourceTree = "<group>"; };
 		71A3CAF72151DDDD00F09815 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DD24463E2154BF7B00D0E0A6 /* CustomPhotoAlbum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPhotoAlbum.swift; sourceTree = "<group>"; };
 		DD2446402154C35100D0E0A6 /* MyAwesomeAlbum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAwesomeAlbum.swift; sourceTree = "<group>"; };
 		DDB3D70821537E7F00E95C43 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		DDB3D70A21537EA100E95C43 /* PreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewViewController.swift; sourceTree = "<group>"; };
@@ -116,7 +114,6 @@
 				71A3CAE12151DDDD00F09815 /* Info.plist */,
 				71A3CAD92151DDDD00F09815 /* bioscope_beta.xcdatamodeld */,
 				DDB3D70A21537EA100E95C43 /* PreviewViewController.swift */,
-				DD24463E2154BF7B00D0E0A6 /* CustomPhotoAlbum.swift */,
 				DD2446402154C35100D0E0A6 /* MyAwesomeAlbum.swift */,
 			);
 			path = "bioscope-beta";
@@ -274,7 +271,6 @@
 				71A3CAD52151DDDD00F09815 /* ViewController.swift in Sources */,
 				DDB3D70921537E7F00E95C43 /* CameraViewController.swift in Sources */,
 				71A3CADB2151DDDD00F09815 /* bioscope_beta.xcdatamodeld in Sources */,
-				DD24463F2154BF7B00D0E0A6 /* CustomPhotoAlbum.swift in Sources */,
 				DDB3D70B21537EA100E95C43 /* PreviewViewController.swift in Sources */,
 				71A3CAD32151DDDD00F09815 /* AppDelegate.swift in Sources */,
 				DD2446412154C35100D0E0A6 /* MyAwesomeAlbum.swift in Sources */,
